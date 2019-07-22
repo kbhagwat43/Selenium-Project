@@ -27,7 +27,8 @@ public class Screenshot_Of_Page {
 		FileUtils.copyFile(src, new File("E:\\Selenium Workspace\\Selenium_Prj\\src\\screenshot\\google.jpeg")	);
 		
 		System.out.println(driver.getTitle());
-		
+		System.out.println(driver.getTitle());
+	
 		
 		
 		
